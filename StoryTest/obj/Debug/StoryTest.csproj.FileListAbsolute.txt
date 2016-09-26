@@ -1,0 +1,18 @@
+C:\Users\dc131186\Desktop\C#\StoryTest\bin\Debug\StoryTest.exe.config
+C:\Users\dc131186\Desktop\C#\StoryTest\bin\Debug\StoryTest.exe
+C:\Users\dc131186\Desktop\C#\StoryTest\bin\Debug\StoryTest.pdb
+C:\Users\dc131186\Desktop\C#\StoryTest\obj\Debug\StoryTest.csprojResolveAssemblyReference.cache
+C:\Users\dc131186\Desktop\C#\StoryTest\obj\Debug\StoryTest.Form1.resources
+C:\Users\dc131186\Desktop\C#\StoryTest\obj\Debug\StoryTest.Properties.Resources.resources
+C:\Users\dc131186\Desktop\C#\StoryTest\obj\Debug\StoryTest.csproj.GenerateResource.Cache
+C:\Users\dc131186\Desktop\C#\StoryTest\obj\Debug\StoryTest.exe
+C:\Users\dc131186\Desktop\C#\StoryTest\obj\Debug\StoryTest.pdb
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\bin\Debug\StoryTest.exe.config
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\obj\Debug\StoryTest.exe
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\obj\Debug\StoryTest.pdb
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\obj\Debug\StoryTest.csprojResolveAssemblyReference.cache
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\obj\Debug\StoryTest.Form1.resources
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\obj\Debug\StoryTest.Properties.Resources.resources
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\obj\Debug\StoryTest.csproj.GenerateResource.Cache
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\bin\Debug\StoryTest.exe
+C:\Users\Darian\Documents\Visual Studio 2015\Projects\StoryTest\bin\Debug\StoryTest.pdb

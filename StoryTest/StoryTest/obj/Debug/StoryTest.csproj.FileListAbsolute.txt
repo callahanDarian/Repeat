@@ -1,0 +1,6 @@
+c:\users\darian\documents\visual studio 2015\Projects\StoryTest\StoryTest\bin\Debug\StoryTest.exe.config
+c:\users\darian\documents\visual studio 2015\Projects\StoryTest\StoryTest\bin\Debug\StoryTest.exe
+c:\users\darian\documents\visual studio 2015\Projects\StoryTest\StoryTest\bin\Debug\StoryTest.pdb
+c:\users\darian\documents\visual studio 2015\Projects\StoryTest\StoryTest\obj\Debug\StoryTest.exe
+c:\users\darian\documents\visual studio 2015\Projects\StoryTest\StoryTest\obj\Debug\StoryTest.pdb
+C:\Users\Darian\documents\visual studio 2015\Projects\StoryTest\StoryTest\obj\Debug\StoryTest.csprojResolveAssemblyReference.cache
