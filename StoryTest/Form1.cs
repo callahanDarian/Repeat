@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -2233,6 +2233,11 @@ namespace StoryTest
             }
             else if (progressStory == 220)
             {
+                labelName.Visible = false;
+                labelStory.Visible = false;
+                labelStoryy.Visible = false;
+                button1.Visible = false;
+
                 btnChoice1.Text = "Wow sounds awful. A rich life full of errands.";
                 btnChoice2.Text = "Thanks for the help, though.";
                 btnChoice3.Text = "Sorry for the trouble";
@@ -2247,6 +2252,7 @@ namespace StoryTest
                 labelStory.Visible = true;
                 btnChoice1.Visible = false;
                 btnChoice2.Visible = false;
+                btnChoice3.Visible = false;
                 labelStoryy.Text = "";
                 if (p == 1)
                 {
@@ -2258,6 +2264,7 @@ namespace StoryTest
                 }
                 else if (p == 2)
                 {
+
                     labelStory.ForeColor = System.Drawing.Color.Blue;
                     labelName.ForeColor = System.Drawing.Color.Blue;
                     labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
