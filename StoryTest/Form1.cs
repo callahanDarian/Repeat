@@ -2599,13 +2599,484 @@ namespace StoryTest
                 }
                 else { story = "BUG"; }
             }
+            else if (progressStory == 235)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "So this is where I'll be living for the next month, huh? And also learning photography apparently.";
+            }
+            else if (progressStory == 236)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "I hope the people around here don't turn out to be complete weirdos.";
+            }
+            else if (progressStory == 237)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "That Phillip kid seems nice, enough, He's kind of doofy though; he always looks like he's lost or something.";
+            }
+            else if (progressStory == 238)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Owen is a little too flirty, but whatever. Things could be worse.";
+            }
+            else if (progressStory == 239)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "The school seems a little preppy and upper class, too. I really don't fit in around here, do I?";
+            }
+            else if (progressStory == 240)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Well, sitting here contemplating it isn't going to help.";
+            }
+            else if (progressStory == 241)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Better head off to good ol' photography class now.";
+            }
+            else if (progressStory == 242)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "I leap off the bed and stretch my arms over my head with a huge sigh.";
+            }
+            else if (progressStory == 243)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Here goes nothing!";
+            }
+            else if (progressStory == 244)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Well, according to this pamphlet, Photography class should be somewhere around here.";
+            }
+            else if (progressStory == 245)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "This school is like a maze, geez. I hope I'm not late again.";
+            }
+            else if (progressStory == 246)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "... Huh? There's something on the floor.";
+            }
+            else if (progressStory == 247)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Looks like someone dropped their wallet.";
+            }
+            else if (progressStory == 248)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "...";
+            }
+            else if (progressStory == 249)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "So his name is Sissel? He's probably another student around here.";
+            }
+            else if (progressStory == 250)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "I'll hold onto it for safekeeping, I guess.";
+            }
+            else if (progressStory == 251)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "The Photography classroom is heavy with the fresh smell of paint.";
+            }
+            else if (progressStory == 252)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "It looks like they share a room with the rest of the art students.";
+            }
+            else if (progressStory == 253)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "This place is rustling with activity.";
+            }
+            else if (progressStory == 254)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "???";
+                story = "You there.";
+            }
+            else if (progressStory == 255)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "???";
+                story = "Do you happen to be " + Name + "?";
+            }
+            else if (progressStory == 256)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "Uh, yes ma'am!";
+            }
+            else if (progressStory == 257)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "I am Mrs. Corlisse, your Photography teacher for this month." + Environment.NewLine + "Welcome.";
+            }
+            else if (progressStory == 258)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "Before class starts, I have to make sure all students have possession of their own personal camera.";
+            }
+            else if (progressStory == 259)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "Did you bring one, as assigned by the class paperwork Mr. " + Name + "?";
+            }
+            else if (progressStory == 260)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "!!?!!?!";
+            }
+            else if (progressStory == 261)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "We were supposed to bring our own camera?";
+            }
+            else if (progressStory == 262)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "You mean to say you don't know?";
+            }
+            else if (progressStory == 263)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "Did you bother reading the paperwork before coming here Mr. " + Name + ".";
+            }
+            else if (progressStory == 264)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "Uuhhh...";
+            }
+            else if (progressStory == 265)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Shit, great first impression already.";
+            }
+            else if (progressStory == 266)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "No matter, we have several spares for... less attentive students such as you.";
+            }
+            else if (progressStory == 267)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Do you hear something breaking?";
+            }
+            else if (progressStory == 268)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Do you hear something breaking?" + Environment.NewLine + "Oh wait, it's just my self-esteem. No big deal.";
+            }
+            else if (progressStory == 269)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Mrs. Corlisse rummages through several cabinets before pulling out an old, faded camera.";
+            }
+            else if (progressStory == 270)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "Hm, this will do.";
+            }
+            else if (progressStory == 271)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "Take this, Mr. " + Name + ". I expect you to take good care of it.";
+            }
+            else if (progressStory == 272)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "It feels pretty old and clunky.";
+            }
+            else if (progressStory == 273)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Heck, this thing's probably older than I am.";
+            }
+            else if (progressStory == 274)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Student";
+                story = "H-hey, isn't that the-";
+            }
+            else if (progressStory == 275)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Other Student";
+                story = "Yeah, that's the one alright...";
+            }
+            else if (progressStory == 276)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Yet Another Student";
+                story = "That thing's cursed! What's Mrs. Corlisse thinking, giving that haunted thing to him.";
+            }
+            else if (progressStory == 277)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "Nonsense! I will not have any of this 'haunted' talk in this classroom.";
+            }
+            else if (progressStory == 278)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "That story is just a baseless rumor floating around the school.";
+            }
+            else if (progressStory == 279)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "Cursed? What's that supposed to mean?";
+            }
+            else if (progressStory == 280)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Student";
+                story = "Uh, don't worry about it. You'll be fine.";
+            }
+            else if (progressStory == 281)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Another Student";
+                story = "Y-yeah!";
+            }
+            else if (progressStory == 282)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Mrs. Corlisse scowls and ignores everyone.";
+            }
+            else if (progressStory == 283)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "She starts lecturing on the basics of photography, and the class settles down and starts taking notes.";
+            }
+            else if (progressStory == 284)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "Everyone keeps giving me weird looks though.";
+            }
+            else if (progressStory == 285)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "What's all this commotion over this old thing?";
+            }
+            else if (progressStory == 286)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "???";
+                story = "Hey, its not that old.";
+            }
+            else if (progressStory == 287)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "AAAAAAAAAAAAAAAHHH!!";
+            }
+            else if (progressStory == 288)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Mrs. Corlisse";
+                story = "Mr. " + Name + "! Keep your voice down!";
+            }
+            else if (progressStory == 289)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "S-sorry!";
+            }
+            else if (progressStory == 290)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Blue;
+                labelName.ForeColor = System.Drawing.Color.Blue;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = Name;
+                story = "T-t-this kid just popped out of nowhere.";
+            }
+            else if (progressStory == 291)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "";
+                story = "The class suddenly begins whispering rampantly.";
+            }
+            else if (progressStory == 292)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Student";
+                story = "See? It's got him!";
+            }
+            else if (progressStory == 293)
+            {
+                labelStory.ForeColor = System.Drawing.Color.Black;
+                labelName.ForeColor = System.Drawing.Color.Black;
+                labelStory.Font = new Font(labelStory.Font.FontFamily, 20);
+                strName = "Another Student";
+                story = "I knew that thing was haunted!";
+            }
 
             else { }
             labelStory.Text = "" + story;
             labelName.Text = "" + strName;
 
         }
-
         private void btnChoice1_Click(object sender, EventArgs e)
         {
             p = 1;
